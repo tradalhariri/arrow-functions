@@ -215,7 +215,7 @@ console.log(joe.greeting());
 
 // TODO: After viewing the previous console.log(), return the code to a working state.
 
-// greeting using arrow 
+// greeting using arrow
 
 Student.prototype.greetingUsingArrow = () => `Hi, my name is ${this.name}`;
 
